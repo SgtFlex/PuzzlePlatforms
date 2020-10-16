@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"G:/Program Files/Epic Games/Unreal Projects/PuzzlePlatforms/.vscode": true,
+		"G:/Program Files/Epic Games/Unreal Projects/PuzzlePlatforms/Content": true,
+		"G:/Program Files/Epic Games/Unreal Projects/PuzzlePlatforms/Intermediate": true
+	}
+}
